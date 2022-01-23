@@ -61,7 +61,7 @@ ejemplo
 
 ## Imagenes
 
-+ ![Markdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeekytheory.com%2Fque-es-markdown-y-como-utilizarlo%2F&psig=AOvVaw0KLMWvYjL2nsQgtu4vUNF-&ust=1643060475409000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjiuarryPUCFQAAAAAdAAAAABAD)
++ ![Markdown](https://geekytheory.com/content/images/2014/03/markdown_inte-1024x630.png)
 
 ##### Para agregar imagenes se utiliza al mismo proceso que lo enlaces solo que este lleva un ! antes de los []
 
@@ -84,7 +84,7 @@ fmt.Print("Hello, world!)
 } 
 ~~~
 
-para usarlo dentro de una oración se encierra dentro ` `
+para usarlo dentro de una oración se encierra dentro \` `
 
 hola mundo en python ` print( "Hello, world!" ) ` 
 
@@ -92,7 +92,7 @@ hola mundo en python ` print( "Hello, world!" ) `
 
 para anular se usa /
 
- de esta manera \* anulado *
+ de esta manera \**anulado**
 
 ### Estos enlaces los llevaran a ver lo aplicado
 
