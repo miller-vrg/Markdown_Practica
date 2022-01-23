@@ -37,15 +37,15 @@ ___
 
 ## Negritas y cursivas
 
-1. * Cursiva *  se hace de esta manera (* oración *)
-2. ** Negrita ** se hace de esta manera (** oración **)
-3. ** Negrita y cursiva ** se hace de esta manera (*** oración ***)
+1. *Cursiva*  se hace de esta manera (* oración *)
+2. **Negrita** se hace de esta manera (** oración **)
+3. ***Negrita y cursiva*** se hace de esta manera (*** oración ***)
 
 ### Ejemplo
 
-- * Cursiva: No es más rico quien más tiene, sino quien menos necesita *
-- ** Negrita: No es más rico quien más tiene, sino quien menos necesita **
-- *** Negrita y Cursiva: No es más rico quien más tiene, sino quien menos necesita ***
+- *Cursiva: No es más rico quien más tiene, sino quien menos necesita*
+- **Negrita: No es más rico quien más tiene, sino quien menos necesita**
+- ***Negrita y Cursiva: No es más rico quien más tiene, sino quien menos necesita***
 
 ## Enlaces
 
@@ -56,22 +56,20 @@ ___
 ejemplo 
 
 
-- ** youtube => ** [youtube](https://www.youtube.com/)  
+- **youtube =>** [youtube](https://www.youtube.com/)  
 - <https://www.youtube.com/> 
 
 ## Imagenes
 
-> Para agregar imagenes se utiliza al mismo proceso que lo enlaces solo que este lleva un ! antes de los []
-___
++ ![Markdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeekytheory.com%2Fque-es-markdown-y-como-utilizarlo%2F&psig=AOvVaw0KLMWvYjL2nsQgtu4vUNF-&ust=1643060475409000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjiuarryPUCFQAAAAAdAAAAABAD)
 
-![Markdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeekytheory.com%2Fque-es-markdown-y-como-utilizarlo%2F&psig=AOvVaw0KLMWvYjL2nsQgtu4vUNF-&ust=1643060475409000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjiuarryPUCFQAAAAAdAAAAABAD)
-
+##### Para agregar imagenes se utiliza al mismo proceso que lo enlaces solo que este lleva un ! antes de los []
 
 ## Codigo
 
 si es una sola liena de codigo se utlizan tres espacios de esta forma
 
-   print("Hello, world!")
+    print("Hello, world!")
 
 si son varias lineas de codigo se usan ~~~ tabto al inicio como al final
 
