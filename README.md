@@ -37,9 +37,9 @@ ___
 
 ## Negritas y cursivas
 
-1. *Cursiva*  se hace de esta manera (* oración *)
-2. **Negrita** se hace de esta manera (** oración **)
-3. ***Negrita y cursiva*** se hace de esta manera (*** oración ***)
+1. *Cursiva*  se hace de esta manera (\*oración*)
+2. **Negrita** se hace de esta manera (\**oración**)
+3. ***Negrita y cursiva*** se hace de esta manera (\***oración***)
 
 ### Ejemplo
 
