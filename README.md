@@ -1,31 +1,30 @@
 # Markdown_Practica
 
+# Guia de Markdown
 
-#Guia de Markdown
+## Encabezados
 
-##Encabezados
+# Encabeazdo 1
+## Encabeazdo 2 
+### Encabeazdo 3
+#### Encabeazdo 4 
+##### Encabeazdo 5 
+###### Encabeazdo 6
 
-#Encabeazdo 1
-##Encabeazdo 2 
-###Encabeazdo 3
-####Encabeazdo 4 
-#####Encabeazdo 5 
-######Encabeazdo 6
+## Citas
 
-##Citas
+> Esto es una cita
+> continuación de la cita
 
->Esto es una cita
->continuación de la cita
+## Lista
 
-##Lista
+### Desordenados
 
-###Desordenados
+* Elemento 1
++ Elemento 2
+- Elemento 3
 
-*Elemento 1
-+Elemento 2
--Elemento 3
-
-###Numeradas
+### Numeradas
 
 1. Elemento 1
 2. Elemento 2
